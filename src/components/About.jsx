@@ -10,8 +10,8 @@ return (
 
     <div className="caixa-sobre">
         <p>
-        Sou estudante, gosto de esportes, sou prático e ágil em relação a novos conhecimentos 
-        e estou sempre em busca de novos aprendizados.
+        Sou estudante, estou sempre em busca de novos conhecimentos,
+        e estou sempre em busca de novas formas de melhorar aprender novos metodos e de me reinventar.
         </p>
 
         <p>
